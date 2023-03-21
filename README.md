@@ -6,7 +6,6 @@ This is a PacMan game that uses functions and arrays to create and display multi
 ## Future improvments 
 I would to change the size of the pacman when they hit the border.
 
-
 ## Run Code
 You can play this game <a href="https://tennwilliams.github.io/PacMan"> Here </a>
 
